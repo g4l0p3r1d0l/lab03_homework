@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/cmake_install.cmake",
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_lib/cmake_install.cmake",
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_ex_lib/cmake_install.cmake",
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_lib/cmake_install.cmake",
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/hello_world_app/cmake_install.cmake",
+		"/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

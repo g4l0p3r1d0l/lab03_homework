@@ -1,0 +1,17 @@
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/CMakeFiles/rebuild_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_lib/CMakeFiles/formatter.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_lib/CMakeFiles/solver_lib.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_lib/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_lib/CMakeFiles/rebuild_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/hello_world_app/CMakeFiles/hello_world.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/hello_world_app/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/hello_world_app/CMakeFiles/rebuild_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_app/CMakeFiles/solver.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_app/CMakeFiles/edit_cache.dir
+/Users/mac/g4l0p3r1d0l/workspace/lab03_homework/build/solver_app/CMakeFiles/rebuild_cache.dir
